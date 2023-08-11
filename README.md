@@ -5,7 +5,7 @@
 - 🤝 I’m looking for help with <b>find a job as game developer</b><br>
 - 🌱 I’m currently learning <b>Unity</b><br>
 - 💬 Ask me about <b>Dotnet</b><br>
-- 📄 Curious about more? <a href="resume.mertcanaslan.dev">Check my website</a><br>
+- 📄 Curious about more? <a href="https://resume.mertcanaslan.dev">Check my website</a><br>
 - ⚡ Fun fact <b>I LOVE PLAYING CHESS!</b><br>
 <br>
 <div> <a href="https://twitter.com/algoritmiikk" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
