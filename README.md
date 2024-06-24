@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mertcan</h1>
-<h3 align="center">I am a harmonious, solution-oriented, fast learner who enjoys conducting research and contributing to the environment I work in while constantly striving to improve myself by gaining insights from the surroundings. I have been working in the backend field so far; however, I am currently putting effort into becoming a game developer and enhancing my skills in this area.</h3>
+<h3 align="center">Hello, I am Mertcan. I am an adaptable, solution-oriented, fast learner, who enjoys doing research and contributing to the environment in which he works and constantly tries to improve himself by gaining insights from his environment. At the same time, I am a person who loves his job with the advantage of having turned my hobby of software and technology into my profession. I am consistent in following my responsibilities and completing the assigned work on time and in the required manner. I have worked in the backend area until today and I am currently working as a Software Developer in 'Kumport' company.</h3>
 <br>
-- 🔭 I’m currently working on <b>my own projects</b><br>
-- 🤝 I’m looking for help with <b>find a job as game developer</b><br>
-- 🌱 I’m currently learning <b>Unity</b><br>
-- 💬 Ask me about <b>Dotnet</b><br>
+- 🔭 I’m currently working at <b>Kumport</b><br>
+- 🌱 I’m currently learning <b>Micro Services</b> and <b>Asynchronous Programming</b><br>
+- 💬 Ask me about <b>.NET</b><br>
 - 📄 Curious about more? <a href="https://resume.mertcanaslan.dev" target="_blank">Check my website</a><br>
 - ⚡ Fun fact <b>I LOVE PLAYING CHESS!</b><br>
 <br>
